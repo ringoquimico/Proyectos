@@ -1,0 +1,1000 @@
+﻿CHATTER;Model;Tenure;NetSales;Hours;Sales/HR;TargetSPH;TargetNetSales per WK;TargetSalesHR;Month;Week
+JESBONI;MODEL 5;Training;$457.54;12;$38.13;$28.00;$8,400;$336;August;Week 1
+KALVIN;MODEL 5;Training;$25.58;4;$6.40;$28.00;$8,400;$112;August;Week 1
+KALVIN;MODEL 8;Training;$23.20;4;$5.80;$23.00;$6,650;$92;August;Week 1
+KALVIN;MODEL 12;Training;$303.20;4;$75.80;$39.00;$11,900;$156;August;Week 1
+JOHN C;MODEL 5;Training;$69.60;4;$17.40;$28.00;$8,400;$112;August;Week 1
+KENNETH;MODEL 5;Training;$169.55;12;$14.13;$28.00;$8,400;$336;August;Week 1
+CRIS;MODEL 8;Training;$118.40;4;$29.60;$23.00;$6,650;$92;August;Week 1
+CRIS;MODEL 12;Training;$48.80;4;$12.20;$39.00;$11,900;$156;August;Week 1
+CRIS;MODEL 13;Training;;4;$0.00;$7.00;$2,100;$28;August;Week 1
+JOHN DAVID;MODEL 5;Training;$55.98;4;$14.00;$28.00;$8,400;$112;August;Week 1
+JOHN DAVID;MODEL 8;Training;$23.20;4;$5.80;$23.00;$6,650;$92;August;Week 1
+JOHN DAVID;MODEL 9;Training;$64.80;4;$16.20;$29.00;$8,400;$116;August;Week 1
+JB;MODEL 5;Training;$24.00;4;$6.00;$28.00;$8,400;$112;August;Week 1
+JB;MODEL 8;Training;$35.20;4;$8.80;$23.00;$6,650;$92;August;Week 1
+JB;MODEL 13;Training;;4;$0.00;$7.00;$2,100;$28;August;Week 1
+SIMON;MODEL 8;Training;$38.40;4;$9.60;$23.00;$6,650;$92;August;Week 1
+SIMON;MODEL 13;Training;;4;$0.00;$7.00;$2,100;$28;August;Week 1
+RHAZEN;MODEL 4;Training;$10.40;4;$2.60;$8.00;$2,450;$32;August;Week 1
+JAN;MODEL 9;Training;;4;$0.00;$29.00;$8,400;$116;August;Week 1
+JOSHUA;MODEL 11;Tenured;$6,926.78;39;$177.61;$106.00;$24,500;$4,134;August;Week 1
+RAY;MODEL 11;Tenured;$2,530.64;25;$101.23;$106.00;$24,500;$2,650;August;Week 1
+MATEUS;MODEL 3;Tenured;$106.00;;;$30.00;$7,000;$0;August;Week 1
+MATEUS;MODEL 9;Tenured;$1,125.60;20;$56.28;$36.00;$8,400;$720;August;Week 1
+MATEUS;MODEL 14;Tenured;$2,041.92;21;$97.23;$57.00;$13,300;$1,197;August;Week 1
+CARL;MODEL 9;Tenured;$412.00;7;$58.86;$36.00;$8,400;$252;August;Week 1
+CARL;MODEL 10;Tenured;$32.00;1;$32.00;$46.00;$11,200;$46;August;Week 1
+CARL;MODEL 14;Tenured;$2,487.44;29;$85.77;$57.00;$13,300;$1,653;August;Week 1
+POPOV;MODEL 1;Tenured;$3,606.99;48;$75.15;$66.00;$15,400;$3,168;August;Week 1
+POPOV;MODEL 3;Tenured;$8.00;;;$30.00;$7,000;$0;August;Week 1
+ANDREI;MODEL 11;Tenured;$3,587.88;48;$74.75;$106.00;$24,500;$5,088;August;Week 1
+IRISH;MODEL 6;Tenured;$1,122.80;9;$124.76;$38.00;$9,100;$342;August;Week 1
+IRISH;MODEL 10;Tenured;;1;$0.00;$46.00;$11,200;$46;August;Week 1
+IRISH;MODEL 12;Tenured;$2,861.60;48;$59.62;$49.00;$11,900;$2,352;August;Week 1
+IRISH;MODEL 14;Tenured;$40.80;1;$40.80;$57.00;$13,300;$57;August;Week 1
+JESBONI;MODEL 5;Nesting;$195.97;8;$24.50;$32.00;$8,400;$256;August;Week 1
+JESBONI;MODEL 10;Nesting;$842.40;8;$105.30;$41.00;$11,200;$328;August;Week 1
+JESSA;MODEL 1;Tenured;$1,850.21;36;$51.39;$66.00;$15,400;$2,376;August;Week 1
+JESSA;MODEL 3;Tenured;$331.52;8;$41.44;$30.00;$7,000;$240;August;Week 1
+JESSA;MODEL 6;Tenured;$242.78;4;$60.70;$38.00;$9,100;$152;August;Week 1
+JESSA;MODEL 11;Tenured;$167.08;;;$106.00;$24,500;$0;August;Week 1
+JESSA;MODEL 14;Tenured;$764.98;9;$85.00;$57.00;$13,300;$513;August;Week 1
+SERHII;MODEL 11;Tenured;$12.00;2;$6.00;$106.00;$24,500;$212;August;Week 1
+SERHII;MODEL 14;Tenured;$2,914.40;48;$60.72;$57.00;$13,300;$2,736;August;Week 1
+EMMANUEL;MODEL 2;Tenured;$776.78;19;$40.88;$50.00;$11,900;$950;August;Week 1
+EMMANUEL;MODEL 10;Tenured;$1,772.80;28;$63.31;$46.00;$11,200;$1,288;August;Week 1
+GAI;MODEL 2;Tenured;$2,422.45;43;$56.34;$50.00;$11,900;$2,150;August;Week 1
+GAI;MODEL 4;Tenured;$25.84;6;$4.31;$10.00;$2,450;$60;August;Week 1
+GAI;MODEL 5;Tenured;;1;$0.00;$35.00;$8,400;$35;August;Week 1
+GAI;MODEL 9;Tenured;$10.52;2;$5.26;$36.00;$8,400;$72;August;Week 1
+GAI;MODEL 10;Tenured;$329.38;6;$54.90;$46.00;$11,200;$276;August;Week 1
+GAI;MODEL 14;Tenured;$480.92;5;$96.18;$57.00;$13,300;$285;August;Week 1
+DIANA;MODEL 1;Tenured;$1,087.33;16;$67.96;$66.00;$15,400;$1,056;August;Week 1
+DIANA;MODEL 11;Tenured;$544.84;16;$34.05;$106.00;$24,500;$1,696;August;Week 1
+JOSHUA C;MODEL 1;Tenured;$532.04;8;$66.51;$66.00;$15,400;$528;August;Week 1
+JOSHUA C;MODEL 6;Tenured;$8.00;3;$2.67;$38.00;$9,100;$114;August;Week 1
+JOSHUA C;MODEL 9;Tenured;$1,808.72;37;$48.88;$36.00;$8,400;$1,332;August;Week 1
+KALVIN;MODEL 9;Nesting;$388.00;8;$48.50;$33.00;$8,400;$264;August;Week 1
+GENA;MODEL 10;Tenured;$873.76;44;$19.86;$46.00;$11,200;$2,024;August;Week 1
+GENA;MODEL 11;Tenured;$2,595.24;28;$92.69;$106.00;$24,500;$2,968;August;Week 1
+GENA;MODEL 14;Tenured;;1;$0.00;$57.00;$13,300;$57;August;Week 1
+ROMAN;MODEL 3;Nesting;$1,561.60;22;$70.98;$27.00;$7,000;$594;August;Week 1
+ROMAN;MODEL 6;Nesting;$57.60;8;$7.20;$34.00;$9,100;$272;August;Week 1
+ROMAN;MODEL 11;Nesting;$135.98;6;$22.66;$95.00;$24,500;$570;August;Week 1
+ROMAN;MODEL 13;Nesting;;1;$0.00;$8.00;$2,100;$8;August;Week 1
+JANDLE;MODEL 1;Tenured;$276.56;8;$34.57;$66.00;$15,400;$528;August;Week 1
+JANDLE;MODEL 3;Tenured;$1,346.30;24;$56.10;$30.00;$7,000;$720;August;Week 1
+JANDLE;MODEL 6;Tenured;$233.00;8;$29.13;$38.00;$9,100;$304;August;Week 1
+JANDLE;MODEL 12;Tenured;$10.30;;;$49.00;$11,900;$0;August;Week 1
+CAROL;MODEL 5;Tenured;$255.76;8;$31.97;$35.00;$8,400;$280;August;Week 1
+CAROL;MODEL 6;Tenured;$63.35;;;$38.00;$9,100;$0;August;Week 1
+CAROL;MODEL 8;Tenured;$77.86;8;$9.73;$28.00;$6,650;$224;August;Week 1
+CAROL;MODEL 12;Tenured;$1,864.01;32;$58.25;$49.00;$11,900;$1,568;August;Week 1
+CAROL;MODEL 14;Tenured;$108.03;3;$36.01;$57.00;$13,300;$171;August;Week 1
+FRANZ;MODEL 9;Tenured;$1,419.82;30;$47.33;$36.00;$8,400;$1,080;August;Week 1
+FRANZ;MODEL 10;Tenured;$12.02;1;$12.02;$46.00;$11,200;$46;August;Week 1
+LOURANE;MODEL 2;Tenured;$1,832.58;40;$45.81;$50.00;$11,900;$2,000;August;Week 1
+LOURANE;MODEL 10;Tenured;$28.64;2;$14.32;$46.00;$11,200;$92;August;Week 1
+JOYCE;MODEL 5;Tenured;$2,090.33;43;$48.61;$35.00;$8,400;$1,505;August;Week 1
+JOYCE;MODEL 13;Tenured;$8.00;5;$1.60;$9.00;$2,100;$45;August;Week 1
+MARK JOSEPH;MODEL 2;Tenured;$145.19;6;$24.20;$50.00;$11,900;$300;August;Week 1
+MARK JOSEPH;MODEL 5;Tenured;$167.18;8;$20.90;$35.00;$8,400;$280;August;Week 1
+MARK JOSEPH;MODEL 8;Tenured;$2,089.99;42;$49.76;$28.00;$6,650;$1,176;August;Week 1
+MARK JOSEPH;MODEL 9;Tenured;$5.20;1;$5.20;$36.00;$8,400;$36;August;Week 1
+MARK JOSEPH;MODEL 12;Tenured;$389.60;8;$48.70;$49.00;$11,900;$392;August;Week 1
+MARYJEAN;MODEL 1;Tenured;$62.48;2;$31.24;$66.00;$15,400;$132;August;Week 1
+MARYJEAN;MODEL 6;Tenured;$59.73;8;$7.47;$38.00;$9,100;$304;August;Week 1
+MARYJEAN;MODEL 10;Tenured;$218.29;8;$27.29;$46.00;$11,200;$368;August;Week 1
+MARYJEAN;MODEL 14;Tenured;$1,998.19;38;$52.58;$57.00;$13,300;$2,166;August;Week 1
+KATE;MODEL 1;Tenured;$1,567.91;38;$41.26;$66.00;$15,400;$2,508;August;Week 1
+KATE;MODEL 2;Tenured;$230.40;9;$25.60;$50.00;$11,900;$450;August;Week 1
+KATE;MODEL 9;Tenured;$80.25;2;$40.13;$36.00;$8,400;$72;August;Week 1
+KATE;MODEL 10;Tenured;$39.62;1;$39.62;$46.00;$11,200;$46;August;Week 1
+MARK;MODEL 6;Tenured;$1,943.20;48;$40.48;$38.00;$9,100;$1,824;August;Week 1
+MARK;MODEL 9;Tenured;$51.20;4;$12.80;$36.00;$8,400;$144;August;Week 1
+MARK;MODEL 13;Tenured;;4;$0.00;$9.00;$2,100;$36;August;Week 1
+AIRAH;MODEL 2;Tenured;$12.00;;;$50.00;$11,900;$0;August;Week 1
+AIRAH;MODEL 3;Tenured;$903.79;18;$50.21;$30.00;$7,000;$540;August;Week 1
+AIRAH;MODEL 4;Tenured;;2;$0.00;$10.00;$2,450;$20;August;Week 1
+AIRAH;MODEL 6;Tenured;$498.40;23;$21.67;$38.00;$9,100;$874;August;Week 1
+AIRAH;MODEL 9;Tenured;$369.77;8;$46.22;$36.00;$8,400;$288;August;Week 1
+ERIC;MODEL 3;Tenured;$573.60;8;$71.70;$30.00;$7,000;$240;August;Week 1
+ERIC;MODEL 5;Tenured;$61.60;5;$12.32;$35.00;$8,400;$175;August;Week 1
+ERIC;MODEL 6;Tenured;$538.40;21;$25.64;$38.00;$9,100;$798;August;Week 1
+ERIC;MODEL 8;Tenured;$342.40;14;$24.46;$28.00;$6,650;$392;August;Week 1
+ERIC;MODEL 11;Tenured;$817.56;3;$272.52;$106.00;$24,500;$318;August;Week 1
+ERIC;MODEL 13;Tenured;$45.60;19;$2.40;$9.00;$2,100;$171;August;Week 1
+ELLA;MODEL 4;Tenured;$92.59;8;$11.57;$10.00;$2,450;$80;August;Week 1
+ELLA;MODEL 8;Tenured;$1,641.65;48;$34.20;$28.00;$6,650;$1,344;August;Week 1
+ELLA;MODEL 12;Tenured;$213.99;8;$26.75;$49.00;$11,900;$392;August;Week 1
+MATTHEW;MODEL 2;Nesting;$14.40;5;$2.88;$45.00;$11,900;$225;August;Week 1
+MATTHEW;MODEL 6;Nesting;$360.00;8;$45.00;$34.00;$9,100;$272;August;Week 1
+MATTHEW;MODEL 9;Nesting;$53.60;8;$6.70;$33.00;$8,400;$264;August;Week 1
+MATTHEW;MODEL 12;Nesting;$1,511.18;48;$31.48;$44.00;$11,900;$2,112;August;Week 1
+JB;MODEL 10;Nesting;$24.00;11;$2.18;$41.00;$11,200;$451;August;Week 1
+JB;MODEL 13;Nesting;$447.18;8;$55.90;$8.00;$2,100;$64;August;Week 1
+VERONICA;MODEL 2;Nesting;$663.99;25;$26.56;$45.00;$11,900;$1,125;August;Week 1
+VERONICA;MODEL 10;Nesting;$104.00;7;$14.86;$41.00;$11,200;$287;August;Week 1
+EDGAR;MODEL 2;Tenured;$230.76;8;$28.85;$50.00;$11,900;$400;August;Week 1
+EDGAR;MODEL 3;Tenured;$31.14;;;$30.00;$7,000;$0;August;Week 1
+EDGAR;MODEL 4;Tenured;$3.97;8;$0.50;$10.00;$2,450;$80;August;Week 1
+EDGAR;MODEL 8;Tenured;$98.16;4;$24.54;$28.00;$6,650;$112;August;Week 1
+EDGAR;MODEL 12;Tenured;$657.43;16;$41.09;$49.00;$11,900;$784;August;Week 1
+EDGAR;MODEL 13;Tenured;$23.13;16;$1.45;$9.00;$2,100;$144;August;Week 1
+EDGAR;MODEL 14;Tenured;$63.14;1;$63.14;$57.00;$13,300;$57;August;Week 1
+JOHN DAVID;MODEL 2;Nesting;$123.20;4;$30.80;$45.00;$11,900;$180;August;Week 1
+JOHN DAVID;MODEL 10;Nesting;$152.00;12;$12.67;$41.00;$11,200;$492;August;Week 1
+MIKE;MODEL 3;Tenured;$643.20;30;$21.44;$30.00;$7,000;$900;August;Week 1
+MIKE;MODEL 4;Tenured;;4;$0.00;$10.00;$2,450;$40;August;Week 1
+MIKE;MODEL 8;Tenured;$224.80;8;$28.10;$28.00;$6,650;$224;August;Week 1
+MIKE;MODEL 9;Tenured;$41.60;4;$10.40;$36.00;$8,400;$144;August;Week 1
+MIKE;MODEL 11;Tenured;;1;$0.00;$106.00;$24,500;$106;August;Week 1
+MIKE;MODEL 13;Tenured;;7;$0.00;$9.00;$2,100;$63;August;Week 1
+MIKE;MODEL 14;Tenured;$40.00;3;$13.33;$57.00;$13,300;$171;August;Week 1
+KENNETH;MODEL 6;Nesting;$87.20;3;$29.07;$34.00;$9,100;$102;August;Week 1
+KENNETH;MODEL 8;Nesting;$184.00;8;$23.00;$25.00;$6,650;$200;August;Week 1
+KENNETH;MODEL 9;Nesting;$71.20;10;$7.12;$33.00;$8,400;$330;August;Week 1
+CRIS;MODEL 4;Nesting;$12.00;6;$2.00;$9.00;$2,450;$54;August;Week 1
+CRIS;MODEL 6;Nesting;$113.60;2;$56.80;$34.00;$9,100;$68;August;Week 1
+LYSANDER;MODEL 1;Nesting;$168.78;4;$42.20;$59.00;$15,400;$236;August;Week 1
+LYSANDER;MODEL 4;Nesting;$3.20;8;$0.40;$9.00;$2,450;$72;August;Week 1
+LYSANDER;MODEL 5;Nesting;$750.32;39;$19.24;$32.00;$8,400;$1,248;August;Week 1
+LYSANDER;MODEL 10;Nesting;$81.60;5;$16.32;$41.00;$11,200;$205;August;Week 1
+LYSANDER;MODEL 13;Nesting;;8;$0.00;$8.00;$2,100;$64;August;Week 1
+JOSE;MODEL 5;Tenured;$205.58;16;$12.85;$35.00;$8,400;$560;August;Week 1
+JOSE;MODEL 6;Tenured;$68.79;8;$8.60;$38.00;$9,100;$304;August;Week 1
+JOSE;MODEL 9;Tenured;$94.40;8;$11.80;$36.00;$8,400;$288;August;Week 1
+JOSE;MODEL 10;Tenured;$172.80;7;$24.69;$46.00;$11,200;$322;August;Week 1
+AYAH;MODEL 1;Tenured;$189.61;7;$27.09;$66.00;$15,400;$462;August;Week 1
+AYAH;MODEL 2;Tenured;$12.00;;;$50.00;$11,900;$0;August;Week 1
+AYAH;MODEL 6;Tenured;$4.80;1;$4.80;$38.00;$9,100;$38;August;Week 1
+AYAH;MODEL 10;Tenured;$409.68;25;$16.39;$46.00;$11,200;$1,150;August;Week 1
+AYAH;MODEL 13;Tenured;$4.80;14;$0.34;$9.00;$2,100;$126;August;Week 1
+AYAH;MODEL 14;Tenured;;3;$0.00;$57.00;$13,300;$171;August;Week 1
+SADAMMA;MODEL 3;Nesting;$52.00;;;$27.00;$7,000;$0;August;Week 1
+SADAMMA;MODEL 4;Nesting;$16.00;26;$0.62;$9.00;$2,450;$234;August;Week 1
+SADAMMA;MODEL 6;Nesting;$303.20;6;$50.53;$34.00;$9,100;$204;August;Week 1
+SADAMMA;MODEL 8;Nesting;$50.40;8;$6.30;$25.00;$6,650;$200;August;Week 1
+SADAMMA;MODEL 13;Nesting;;4;$0.00;$8.00;$2,100;$32;August;Week 1
+JOHN ALBERT;MODEL 2;Tenured;$255.19;7;$36.46;$50.00;$11,900;$350;August;Week 1
+JOHN ALBERT;MODEL 4;Tenured;$131.20;32;$4.10;$10.00;$2,450;$320;August;Week 1
+JOHN ALBERT;MODEL 6;Tenured;$105.60;8;$13.20;$38.00;$9,100;$304;August;Week 1
+JOHN ALBERT;MODEL 8;Tenured;$140.80;8;$17.60;$28.00;$6,650;$224;August;Week 1
+JOHN ALBERT;MODEL 13;Tenured;$83.20;33;$2.52;$9.00;$2,100;$297;August;Week 1
+BENJAMIN;MODEL 4;Tenured;$114.72;56;$2.05;$10.00;$2,450;$560;August;Week 1
+BENJAMIN;MODEL 10;Tenured;$173.88;;;$46.00;$11,200;$0;August;Week 1
+BENJAMIN;MODEL 13;Tenured;$186.69;30;$6.22;$9.00;$2,100;$270;August;Week 1
+BENJAMIN;MODEL 14;Tenured;$16.27;;;$57.00;$13,300;$0;August;Week 1
+ANGELICA;MODEL 1;Tenured;$9.60;;;$66.00;$15,400;$0;August;Week 1
+AIRAH;MODEL 2;Tenured;;1;$0.00;$50.00;$11,900;$50;August;Week 2
+AIRAH;MODEL 4;Tenured;$43.90;32;$1.37;$10.00;$2,450;$320;August;Week 2
+AIRAH;MODEL 6;Tenured;$39.11;1;$39.11;$38.00;$9,100;$38;August;Week 2
+AIRAH;MODEL 10;Tenured;$661.14;6;$110.19;$46.00;$11,200;$276;August;Week 2
+AIRAH;MODEL 13;Tenured;$31.20;25;$1.25;$9.00;$2,100;$225;August;Week 2
+ANDREI;MODEL 11;Tenured;$4,334.52;48;$90.30;$106.00;$24,500;$5,088;August;Week 2
+ANGELICA;MODEL 1;Tenured;$3,706.78;46;$80.58;$66.00;$15,400;$3,036;August;Week 2
+ANGELICA;MODEL 2;Tenured;;1;$0.00;$50.00;$11,900;$50;August;Week 2
+ANGELICA;MODEL 4;Tenured;$11.99;5;$2.40;$10.00;$2,450;$50;August;Week 2
+ANGELICA;MODEL 11;Tenured;;1;$0.00;$106.00;$24,500;$106;August;Week 2
+ANGELICA;MODEL 14;Tenured;$102.90;1;$102.90;$57.00;$13,300;$57;August;Week 2
+BENJAMIN;MODEL 4;Tenured;$135.22;41;$3.30;$10.00;$2,450;$410;August;Week 2
+BENJAMIN;MODEL 5;Tenured;$125.29;8;$15.66;$35.00;$8,400;$280;August;Week 2
+BENJAMIN;MODEL 13;Tenured;$125.87;5;$25.17;$9.00;$2,100;$45;August;Week 2
+CAROL;MODEL 11;Tenured;$1,391.75;24;$57.99;$106.00;$24,500;$2,544;August;Week 2
+CAROL;MODEL 14;Tenured;$365.04;8;$45.63;$57.00;$13,300;$456;August;Week 2
+EDGAR;MODEL 4;Tenured;$26.25;32;$0.82;$10.00;$2,450;$320;August;Week 2
+EDGAR;MODEL 6;Tenured;$30.31;2;$15.16;$38.00;$9,100;$76;August;Week 2
+EDGAR;MODEL 9;Tenured;$522.21;8;$65.28;$36.00;$8,400;$288;August;Week 2
+EDGAR;MODEL 10;Tenured;$49.56;1;$49.56;$46.00;$11,200;$46;August;Week 2
+EDGAR;MODEL 14;Tenured;$21.54;4;$5.39;$57.00;$13,300;$228;August;Week 2
+ELLA;MODEL 8;Tenured;$1,073.00;40;$26.83;$28.00;$6,650;$1,120;August;Week 2
+EMMANUEL;MODEL 2;Tenured;$170.39;8;$21.30;$50.00;$11,900;$400;August;Week 2
+EMMANUEL;MODEL 5;Tenured;$280.75;13;$21.60;$35.00;$8,400;$455;August;Week 2
+EMMANUEL;MODEL 6;Tenured;$168.80;8;$21.10;$38.00;$9,100;$304;August;Week 2
+EMMANUEL;MODEL 10;Tenured;$320.00;8;$40.00;$46.00;$11,200;$368;August;Week 2
+ERIC;MODEL 5;Tenured;$138.40;7;$19.77;$35.00;$8,400;$245;August;Week 2
+ERIC;MODEL 6;Tenured;$356.00;8;$44.50;$38.00;$9,100;$304;August;Week 2
+ERIC;MODEL 8;Tenured;$376.80;21;$17.94;$28.00;$6,650;$588;August;Week 2
+ERIC;MODEL 13;Tenured;$370.40;41;$9.03;$9.00;$2,100;$369;August;Week 2
+FRANZ;MODEL 4;Tenured;$4.82;6;$0.80;$10.00;$2,450;$60;August;Week 2
+FRANZ;MODEL 9;Tenured;$1,850.81;48;$38.56;$36.00;$8,400;$1,728;August;Week 2
+GAI;MODEL 2;Tenured;$1,905.86;39;$48.87;$50.00;$11,900;$1,950;August;Week 2
+GENA;MODEL 9;Tenured;$4.80;2;$2.40;$36.00;$8,400;$72;August;Week 2
+GENA;MODEL 11;Tenured;$2,938.43;28;$104.94;$106.00;$24,500;$2,968;August;Week 2
+IRISH;MODEL 2;Tenured;$382.20;6;$63.70;$50.00;$11,900;$300;August;Week 2
+IRISH;MODEL 12;Tenured;$1,872.80;34;$55.08;$49.00;$11,900;$1,666;August;Week 2
+IRISH;MODEL 14;Tenured;;1;$0.00;$57.00;$13,300;$57;August;Week 2
+JANDLE;MODEL 1;Tenured;$262.58;4;$65.65;$66.00;$15,400;$264;August;Week 2
+JANDLE;MODEL 14;Tenured;$1,664.89;34;$48.97;$57.00;$13,300;$1,938;August;Week 2
+JB;MODEL 9;Nesting;$170.40;5;$34.08;$33.00;$8,400;$165;August;Week 2
+JB;MODEL 12;Nesting;$793.59;31;$25.60;$44.00;$11,900;$1,364;August;Week 2
+JB;MODEL 13;Nesting;$20.80;10;$2.08;$8.00;$2,100;$80;August;Week 2
+JEROME;MODEL 2;Nesting;$188.80;8;$23.60;$45.00;$11,900;$360;August;Week 2
+JEROME;MODEL 8;Nesting;$469.60;16;$29.35;$25.00;$6,650;$400;August;Week 2
+JESBONI;MODEL 1;Nesting;$2,145.33;37;$57.98;$59.00;$15,400;$2,183;August;Week 2
+JESBONI;MODEL 10;Nesting;$345.60;13;$26.58;$41.00;$11,200;$533;August;Week 2
+JESBONI;MODEL 12;Nesting;$179.20;6;$29.87;$44.00;$11,900;$264;August;Week 2
+JESSA;MODEL 1;Tenured;$812.98;15;$54.20;$66.00;$15,400;$990;August;Week 2
+JESSA;MODEL 2;Tenured;$864.73;16;$54.05;$50.00;$11,900;$800;August;Week 2
+JESSA;MODEL 10;Tenured;$538.49;10;$53.85;$46.00;$11,200;$460;August;Week 2
+JESSA;MODEL 11;Tenured;$2,321.72;7;$331.67;$106.00;$24,500;$742;August;Week 2
+JESSA;MODEL 12;Tenured;$83.72;3;$27.91;$49.00;$11,900;$147;August;Week 2
+JESSA;MODEL 13;Tenured;;7;$0.00;$9.00;$2,100;$63;August;Week 2
+JOHN ALBERT;MODEL 4;Tenured;;8;$0.00;$10.00;$2,450;$80;August;Week 2
+JOHN ALBERT;MODEL 5;Tenured;$911.36;38;$23.98;$35.00;$8,400;$1,330;August;Week 2
+JOHN ALBERT;MODEL 13;Tenured;$8.00;22;$0.36;$9.00;$2,100;$198;August;Week 2
+JOHN DAVID;MODEL 6;Nesting;$1,397.57;32;$43.67;$34.00;$9,100;$1,088;August;Week 2
+JOHN DAVID;MODEL 10;Nesting;$379.16;8;$47.40;$41.00;$11,200;$328;August;Week 2
+JOHN DAVID;MODEL 12;Nesting;$41.60;8;$5.20;$44.00;$11,900;$352;August;Week 2
+JOSE;MODEL 5;Tenured;$56.78;8;$7.10;$35.00;$8,400;$280;August;Week 2
+JOSE;MODEL 6;Tenured;$16.00;8;$2.00;$38.00;$9,100;$304;August;Week 2
+JOSE;MODEL 9;Tenured;$93.60;6;$15.60;$36.00;$8,400;$216;August;Week 2
+JOSHUA;MODEL 11;Tenured;$5,436.94;24;$226.54;$106.00;$24,500;$2,544;August;Week 2
+JOSHUA C;MODEL 9;Tenured;$1,208.00;36;$33.56;$36.00;$8,400;$1,296;August;Week 2
+JOSHUA C;MODEL 10;Tenured;$348.80;8;$43.60;$46.00;$11,200;$368;August;Week 2
+KALVIN;MODEL 1;Nesting;$10.39;;;$59.00;$15,400;;August;Week 2
+KALVIN;MODEL 6;Nesting;$4.80;2;$2.40;$34.00;$9,100;$68;August;Week 2
+KALVIN;MODEL 8;Nesting;$1,115.30;38;$29.35;$25.00;$6,650;$950;August;Week 2
+KALVIN;MODEL 10;Nesting;$292.80;8;$36.60;$41.00;$11,200;$328;August;Week 2
+KATE;MODEL 1;Tenured;$8.21;;;$66.00;$15,400;;August;Week 2
+KATE;MODEL 5;Tenured;$20.00;1;$20.00;$35.00;$8,400;$35;August;Week 2
+KATE;MODEL 9;Tenured;$14.02;1;$14.02;$36.00;$8,400;$36;August;Week 2
+KATE;MODEL 10;Tenured;$2,287.43;47;$48.67;$46.00;$11,200;$2,162;August;Week 2
+KATE;MODEL 11;Tenured;$1,433.57;5;$286.71;$106.00;$24,500;$530;August;Week 2
+KATE;MODEL 13;Tenured;;2;$0.00;$9.00;$2,100;$18;August;Week 2
+KENNETH;MODEL 5;Nesting;$22.37;3;$7.46;$32.00;$8,400;$96;August;Week 2
+KENNETH;MODEL 6;Nesting;$105.60;8;$13.20;$34.00;$9,100;$272;August;Week 2
+KENNETH;MODEL 8;Nesting;$152.00;16;$9.50;$25.00;$6,650;$400;August;Week 2
+KENNETH;MODEL 9;Nesting;$150.40;4;$37.60;$33.00;$8,400;$132;August;Week 2
+KENNETH;MODEL 12;Nesting;$125.20;8;$15.65;$44.00;$11,900;$352;August;Week 2
+KENNETH;MODEL 13;Nesting;$76.00;20;$3.80;$8.00;$2,100;$160;August;Week 2
+LOURANE;MODEL 2;Tenured;$1,452.93;42;$34.59;$50.00;$11,900;$2,100;August;Week 2
+LOURANE;MODEL 8;Tenured;$343.04;;;$28.00;$6,650;;August;Week 2
+LOURANE;MODEL 12;Tenured;$197.44;6;$32.91;$49.00;$11,900;$294;August;Week 2
+LUCIANA;MODEL 6;Tenured;$783.40;24;$32.64;$38.00;$9,100;$912;August;Week 2
+LYSANDER;MODEL 4;Nesting;$15.20;8;$1.90;$9.00;$2,450;$72;August;Week 2
+LYSANDER;MODEL 5;Nesting;$8.00;;;$32.00;$8,400;;August;Week 2
+LYSANDER;MODEL 10;Nesting;$1,359.78;39;$34.87;$41.00;$11,200;$1,599;August;Week 2
+LYSANDER;MODEL 11;Nesting;$833.50;4;$208.38;$95.00;$24,500;$380;August;Week 2
+LYSANDER;MODEL 12;Nesting;$160.80;8;$20.10;$44.00;$11,900;$352;August;Week 2
+LYSANDER;MODEL 13;Nesting;;2;$0.00;$8.00;$2,100;$16;August;Week 2
+MARGARITA;MODEL 5;Nesting;$127.12;8;$15.89;$32.00;$8,400;$256;August;Week 2
+MARK;MODEL 1;Tenured;$232.76;8;$29.10;$66.00;$15,400;$528;August;Week 2
+MARK;MODEL 2;Tenured;$576.00;8;$72.00;$50.00;$11,900;$400;August;Week 2
+MARK;MODEL 6;Tenured;$8.00;;;$38.00;$9,100;;August;Week 2
+MARK;MODEL 10;Tenured;$554.39;8;$69.30;$46.00;$11,200;$368;August;Week 2
+MARK;MODEL 11;Tenured;$551.94;8;$68.99;$106.00;$24,500;$848;August;Week 2
+MARK;MODEL 12;Tenured;$943.20;8;$117.90;$49.00;$11,900;$392;August;Week 2
+MARK;MODEL 14;Tenured;$61.60;8;$7.70;$57.00;$13,300;$456;August;Week 2
+MARK JOSEPH;MODEL 2;Tenured;$385.19;;;$50.00;$11,900;;August;Week 2
+MARK JOSEPH;MODEL 4;Tenured;$44.00;2;$22.00;$10.00;$2,450;$20;August;Week 2
+MARK JOSEPH;MODEL 8;Tenured;$1,180.80;35;$33.74;$28.00;$6,650;$980;August;Week 2
+MARYJEAN;MODEL 2;Tenured;$3.51;;;$50.00;$11,900;;August;Week 2
+MARYJEAN;MODEL 4;Tenured;$16.31;8;$2.04;$10.00;$2,450;$80;August;Week 2
+MARYJEAN;MODEL 6;Tenured;$101.19;8;$12.65;$38.00;$9,100;$304;August;Week 2
+MARYJEAN;MODEL 10;Tenured;;1;$0.00;$46.00;$11,200;$46;August;Week 2
+MARYJEAN;MODEL 11;Tenured;$144.75;1;$144.75;$106.00;$24,500;$106;August;Week 2
+MARYJEAN;MODEL 14;Tenured;$2,312.62;40;$57.82;$57.00;$13,300;$2,280;August;Week 2
+MATEUS;MODEL 9;Tenured;$938.80;22;$42.67;$36.00;$8,400;$792;August;Week 2
+MATEUS;MODEL 14;Tenured;$1,373.24;24;$57.22;$57.00;$13,300;$1,368;August;Week 2
+MATTHEW;MODEL 5;Nesting;$56.00;1;$56.00;$32.00;$8,400;$32;August;Week 2
+MATTHEW;MODEL 10;Nesting;$215.12;8;$26.89;$41.00;$11,200;$328;August;Week 2
+MATTHEW;MODEL 12;Nesting;$1,702.21;40;$42.56;$44.00;$11,900;$1,760;August;Week 2
+MIKE;MODEL 1;Tenured;$168.79;8;$21.10;$66.00;$15,400;$528;August;Week 2
+MIKE;MODEL 2;Tenured;$548.78;8;$68.60;$50.00;$11,900;$400;August;Week 2
+MIKE;MODEL 6;Tenured;$420.00;15;$28.00;$38.00;$9,100;$570;August;Week 2
+MIKE;MODEL 9;Tenured;$12.00;1;$12.00;$36.00;$8,400;$36;August;Week 2
+MIKE;MODEL 12;Tenured;$187.20;16;$11.70;$49.00;$11,900;$784;August;Week 2
+MIKE;MODEL 13;Tenured;;8;$0.00;$9.00;$2,100;$72;August;Week 2
+POPOV;MODEL 1;Tenured;$3,630.26;48;$75.63;$66.00;$15,400;$3,168;August;Week 2
+RAY;MODEL 11;Tenured;$4,237.27;20;$211.86;$106.00;$24,500;$2,120;August;Week 2
+RHAZEN;MODEL 4;Nesting;$51.20;16;$3.20;$9.00;$2,450;$144;August;Week 2
+RHAZEN;MODEL 5;Nesting;$42.39;8;$5.30;$32.00;$8,400;$256;August;Week 2
+RHAZEN;MODEL 13;Nesting;$4.80;8;$0.60;$8.00;$2,100;$64;August;Week 2
+ROMAN;MODEL 6;Nesting;$1,858.66;47;$39.55;$34.00;$9,100;$1,598;August;Week 2
+SADAMMA;MODEL 4;Nesting;;8;$0.00;$9.00;$2,450;$72;August;Week 2
+SADAMMA;MODEL 9;Nesting;$259.20;8;$32.40;$33.00;$8,400;$264;August;Week 2
+SERHII;MODEL 14;Tenured;$3,016.69;48;$62.85;$57.00;$13,300;$2,736;August;Week 2
+SIMON;MODEL 5;Nesting;$245.59;8;$30.70;$32.00;$8,400;$256;August;Week 2
+SIMON;MODEL 9;Nesting;$467.19;21;$22.25;$33.00;$8,400;$693;August;Week 2
+SIMON;MODEL 10;Nesting;$181.59;8;$22.70;$41.00;$11,200;$328;August;Week 2
+JEROME;MODEL 5;Training;$38.39;5;$7.68;$28.00;$8,400;$140;August;Week 2
+JEROME;MODEL 6;Training;;2;$0.00;$31.00;$9,100;$62;August;Week 2
+JEROME;MODEL 8;Training;;2;$0.00;$23.00;$6,650;$46;August;Week 2
+JEROME;MODEL 13;Training;;3;$0.00;$7.00;$2,100;$21;August;Week 2
+JOHN C;MODEL 5;Training;$140.79;8;$17.60;$28.00;$8,400;$224;August;Week 2
+MARGARITA;MODEL 5;Training;$116.76;8;$14.60;$28.00;$8,400;$224;August;Week 2
+MARGARITA;MODEL 6;Training;$37.60;4;$9.40;$31.00;$9,100;$124;August;Week 2
+RHAZEN;MODEL 5;Training;;3;$0.00;$28.00;$8,400;$84;August;Week 2
+RHAZEN;MODEL 13;Training;;9;$0.00;$7.00;$2,100;$63;August;Week 2
+SIMON;MODEL 13;Training;$83.20;4;$20.80;$7.00;$2,100;$28;August;Week 2
+VADYM;MODEL 5;Nesting;$1,391.76;40;$34.79;$32.00;$8,400;$1,280;August;Week 2
+VERONICA;MODEL 2;Nesting;$982.38;32;$30.70;$45.00;$11,900;$1,440;August;Week 2
+JOSHUA;MODEL 11;Tenured;$4,205.65;32;$131.43;$106.00;$24,500;$3,392;August;Week 3
+ANGELICA;MODEL 1;Tenured;$2,228.99;30;$74.30;$66.00;$15,400;$1,980;August;Week 3
+ANGELICA;MODEL 2;Tenured;$146.10;2;$73.05;$50.00;$11,900;$100;August;Week 3
+ANGELICA;MODEL 11;Tenured;$3,358.54;24;$139.94;$106.00;$24,500;$2,544;August;Week 3
+ANGELICA;MODEL 12;Tenured;$221.60;3;$73.87;$49.00;$11,900;$147;August;Week 3
+ANGELICA;MODEL 14;Tenured;$179.40;1;$179.40;$57.00;$13,300;$57;August;Week 3
+RAY;MODEL 11;Tenured;$1,136.37;13;$87.41;$106.00;$24,500;$1,378;August;Week 3
+ANDREI;MODEL 11;Tenured;$3,931.89;48;$81.91;$106.00;$24,500;$5,088;August;Week 3
+POPOV;MODEL 1;Tenured;$3,622.20;48;$75.46;$66.00;$15,400;$3,168;August;Week 3
+JESSA;MODEL 1;Tenured;$1,161.16;16;$72.57;$66.00;$15,400;$1,056;August;Week 3
+JESSA;MODEL 2;Tenured;$406.30;12;$33.86;$50.00;$11,900;$600;August;Week 3
+JESSA;MODEL 5;Tenured;$322.27;7;$46.04;$35.00;$8,400;$245;August;Week 3
+JESSA;MODEL 6;Tenured;$16.44;1;$16.44;$38.00;$9,100;$38;August;Week 3
+JESSA;MODEL 11;Tenured;$2,459.81;24;$102.49;$106.00;$24,500;$2,544;August;Week 3
+MARK;MODEL 1;Tenured;$433.55;8;$54.19;$66.00;$15,400;$528;August;Week 3
+MARK;MODEL 2;Tenured;$160.00;4;$40.00;$50.00;$11,900;$200;August;Week 3
+MARK;MODEL 5;Tenured;$63.98;8;$8.00;$35.00;$8,400;$280;August;Week 3
+MARK;MODEL 10;Tenured;$694.40;8;$86.80;$46.00;$11,200;$368;August;Week 3
+MARK;MODEL 11;Tenured;$1,300.18;8;$162.52;$106.00;$24,500;$848;August;Week 3
+MARK;MODEL 12;Tenured;$443.20;8;$55.40;$49.00;$11,900;$392;August;Week 3
+MARK;MODEL 14;Tenured;$595.97;8;$74.50;$57.00;$13,300;$456;August;Week 3
+MATEUS;MODEL 9;Tenured;$937.12;17;$55.12;$36.00;$8,400;$612;August;Week 3
+MATEUS;MODEL 14;Tenured;$1,616.52;20;$80.83;$57.00;$13,300;$1,140;August;Week 3
+JOSHUA C;MODEL 5;Tenured;$323.11;7;$46.16;$35.00;$8,400;$245;August;Week 3
+JOSHUA C;MODEL 9;Tenured;$2,640.88;39;$67.71;$36.00;$8,400;$1,404;August;Week 3
+IRISH;MODEL 9;Tenured;$154.00;2;$77.00;$36.00;$8,400;$72;August;Week 3
+IRISH;MODEL 12;Tenured;$2,980.29;48;$62.09;$49.00;$11,900;$2,352;August;Week 3
+IRISH;MODEL 14;Tenured;;1;$0.00;$57.00;$13,300;$57;August;Week 3
+JOYCE;MODEL 5;Tenured;$12.00;;;$35.00;$8,400;;August;Week 3
+JOYCE;MODEL 10;Tenured;$2,624.73;43;$61.04;$46.00;$11,200;$1,978;August;Week 3
+SERHII;MODEL 14;Tenured;$2,643.98;48;$55.08;$57.00;$13,300;$2,736;August;Week 3
+JESBONI;MODEL 6;Nesting;$148.80;7;$21.26;$34.00;$9,100;$238;August;Week 3
+JESBONI;MODEL 10;Nesting;$2,211.60;41;$53.94;$41.00;$11,200;$1,681;August;Week 3
+MARK JOSEPH;MODEL 2;Tenured;$56.40;2;$28.20;$50.00;$11,900;$100;August;Week 3
+MARK JOSEPH;MODEL 4;Tenured;$15.20;6;$2.53;$10.00;$2,450;$60;August;Week 3
+MARK JOSEPH;MODEL 6;Tenured;$356.00;8;$44.50;$38.00;$9,100;$304;August;Week 3
+MARK JOSEPH;MODEL 8;Tenured;$2,876.40;49;$58.70;$28.00;$6,650;$1,372;August;Week 3
+MARK JOSEPH;MODEL 12;Tenured;$128.00;5;$25.60;$49.00;$11,900;$245;August;Week 3
+CARL;MODEL 2;Tenured;;1;$0.00;$50.00;$11,900;$50;August;Week 3
+CARL;MODEL 14;Tenured;$1,487.28;30;$49.58;$57.00;$13,300;$1,710;August;Week 3
+FRANZ;MODEL 9;Tenured;$1,822.16;39;$46.72;$36.00;$8,400;$1,404;August;Week 3
+KATE;MODEL 2;Tenured;$1,921.97;48;$40.04;$50.00;$11,900;$2,400;August;Week 3
+KATE;MODEL 10;Tenured;$111.20;1;$111.20;$46.00;$11,200;$46;August;Week 3
+KATE;MODEL 11;Tenured;;2;$0.00;$106.00;$24,500;$212;August;Week 3
+MARGARITA;MODEL 10;Nesting;$1,767.07;45;$39.27;$41.00;$11,200;$1,845;August;Week 3
+LOURANE;MODEL 6;Tenured;$271.84;8;$33.98;$38.00;$9,100;$304;August;Week 3
+LOURANE;MODEL 10;Tenured;$566.83;13;$43.60;$46.00;$11,200;$598;August;Week 3
+LOURANE;MODEL 11;Tenured;$963.09;27;$35.67;$106.00;$24,500;$2,862;August;Week 3
+JANDLE;MODEL 1;Tenured;$1,270.53;16;$79.41;$66.00;$15,400;$1,056;August;Week 3
+JANDLE;MODEL 2;Tenured;$476.39;27;$17.64;$50.00;$11,900;$1,350;August;Week 3
+JANDLE;MODEL 8;Tenured;$96.70;8;$12.09;$28.00;$6,650;$224;August;Week 3
+JANDLE;MODEL 14;Tenured;$28.70;;;$57.00;$13,300;;August;Week 3
+LYSANDER;MODEL 2;Nesting;$650.81;10;$65.08;$45.00;$11,900;$450;August;Week 3
+LYSANDER;MODEL 5;Nesting;$1,191.65;47;$25.35;$32.00;$8,400;$1,504;August;Week 3
+LYSANDER;MODEL 8;Nesting;$196.00;7;$28.00;$25.00;$6,650;$175;August;Week 3
+LYSANDER;MODEL 9;Nesting;$489.27;8;$61.16;$33.00;$8,400;$264;August;Week 3
+LYSANDER;MODEL 13;Nesting;;1;$0.00;$8.00;$2,100;$8;August;Week 3
+CAROL;MODEL 1;Tenured;$893.37;24;$37.22;$66.00;$15,400;$1,584;August;Week 3
+CAROL;MODEL 14;Tenured;$481.63;16;$30.10;$57.00;$13,300;$912;August;Week 3
+MATTHEW;MODEL 10;Nesting;$40.00;3;$13.33;$41.00;$11,200;$123;August;Week 3
+MATTHEW;MODEL 12;Nesting;$1,480.80;42;$35.26;$44.00;$11,900;$1,848;August;Week 3
+JB;MODEL 12;Nesting;$1,514.40;48;$31.55;$44.00;$11,900;$2,112;August;Week 3
+RICHARDS;MODEL 5;Nesting;$184.75;8;$23.09;$32.00;$8,400;$256;August;Week 3
+RICHARDS;MODEL 8;Nesting;$552.80;16;$34.55;$25.00;$6,650;$400;August;Week 3
+ROMAN;MODEL 6;Tenured;$1,369.17;48;$28.52;$38.00;$9,100;$1,824;August;Week 3
+ERIC;MODEL 5;Tenured;$20.00;1;$20.00;$35.00;$8,400;$35;August;Week 3
+ERIC;MODEL 8;Tenured;$283.20;4;$70.80;$28.00;$6,650;$112;August;Week 3
+ERIC;MODEL 11;Tenured;$1,371.35;24;$57.14;$106.00;$24,500;$2,544;August;Week 3
+ERIC;MODEL 13;Tenured;$42.40;33;$1.28;$9.00;$2,100;$297;August;Week 3
+KALVIN;MODEL 4;Nesting;;3;$0.00;$9.00;$2,450;$27;August;Week 3
+KALVIN;MODEL 5;Nesting;$1,086.95;37;$29.38;$32.00;$8,400;$1,184;August;Week 3
+KALVIN;MODEL 8;Nesting;$188.80;8;$23.60;$25.00;$6,650;$200;August;Week 3
+EMMANUEL;MODEL 2;Tenured;$332.79;16;$20.80;$50.00;$11,900;$800;August;Week 3
+EMMANUEL;MODEL 5;Tenured;$8.00;1;$8.00;$35.00;$8,400;$35;August;Week 3
+EMMANUEL;MODEL 10;Tenured;$506.40;15;$33.76;$46.00;$11,200;$690;August;Week 3
+ELLA;MODEL 8;Tenured;$1,209.89;48;$25.21;$28.00;$6,650;$1,344;August;Week 3
+EDGAR;MODEL 4;Tenured;;8;$0.00;$10.00;$2,450;$80;August;Week 3
+EDGAR;MODEL 6;Tenured;$188.25;8;$23.53;$38.00;$9,100;$304;August;Week 3
+EDGAR;MODEL 8;Tenured;$106.25;4;$26.56;$28.00;$6,650;$112;August;Week 3
+EDGAR;MODEL 10;Tenured;;1;$0.00;$46.00;$11,200;$46;August;Week 3
+EDGAR;MODEL 12;Tenured;$355.37;8;$44.42;$49.00;$11,900;$392;August;Week 3
+EDGAR;MODEL 14;Tenured;$181.45;4;$45.36;$57.00;$13,300;$228;August;Week 3
+KENNETH;MODEL 4;Nesting;$23.20;8;$2.90;$9.00;$2,450;$72;August;Week 3
+KENNETH;MODEL 9;Nesting;$1,220.80;46;$26.54;$33.00;$8,400;$1,518;August;Week 3
+MARYJEAN;MODEL 8;Tenured;;4;$0.00;$28.00;$6,650;$112;August;Week 3
+MARYJEAN;MODEL 11;Tenured;;5;$0.00;$106.00;$24,500;$530;August;Week 3
+MARYJEAN;MODEL 14;Tenured;$1,034.38;38;$27.22;$57.00;$13,300;$2,166;August;Week 3
+MIKE;MODEL 1;Tenured;$537.53;24;$22.40;$66.00;$15,400;$1,584;August;Week 3
+MIKE;MODEL 2;Tenured;$192.00;8;$24.00;$50.00;$11,900;$400;August;Week 3
+MIKE;MODEL 12;Tenured;$8.00;3;$2.67;$49.00;$11,900;$147;August;Week 3
+LUCIANA;MODEL 6;Tenured;$826.04;40;$20.65;$38.00;$9,100;$1,520;August;Week 3
+JOHN DAVID;MODEL 6;Nesting;$641.60;40;$16.04;$34.00;$9,100;$1,360;August;Week 3
+JOHN ALBERT;MODEL 2;Tenured;$562.40;14;$40.17;$50.00;$11,900;$700;August;Week 3
+JOHN ALBERT;MODEL 4;Tenured;$44.00;24;$1.83;$10.00;$2,450;$240;August;Week 3
+RICHARDS;MODEL 8;Training;$251.20;16;$15.70;$23.00;$6,650;$368;August;Week 3
+AIRAH;MODEL 4;Tenured;$55.73;24;$2.32;$10.00;$2,450;$240;August;Week 3
+AIRAH;MODEL 5;Tenured;$929.05;48;$19.36;$35.00;$8,400;$1,680;August;Week 3
+AIRAH;MODEL 6;Tenured;$66.31;8;$8.29;$38.00;$9,100;$304;August;Week 3
+AIRAH;MODEL 12;Tenured;$240.95;3;$80.32;$49.00;$11,900;$147;August;Week 3
+MERICK;MODEL 9;Training;$49.60;4;$12.40;$29.00;$8,400;$116;August;Week 3
+AYAH;MODEL 2;Tenured;$126.44;8;$15.81;$50.00;$11,900;$400;August;Week 3
+AYAH;MODEL 13;Tenured;$48.02;8;$6.00;$9.00;$2,100;$72;August;Week 3
+VADYM;MODEL 2;Nesting;$104.00;11;$9.45;$45.00;$11,900;$495;August;Week 3
+JEROME;MODEL 4;Nesting;;8;$0.00;$9.00;$2,450;$72;August;Week 3
+JEROME;MODEL 9;Nesting;$204.80;8;$25.60;$33.00;$8,400;$264;August;Week 3
+JEROME;MODEL 13;Nesting;$40.80;48;$0.85;$8.00;$2,100;$384;August;Week 3
+SIMON;MODEL 4;Nesting;$156.50;37;$4.23;$9.00;$2,450;$333;August;Week 3
+SIMON;MODEL 5;Nesting;$11.99;3;$4.00;$32.00;$8,400;$96;August;Week 3
+SIMON;MODEL 8;Nesting;$22.40;4;$5.60;$25.00;$6,650;$100;August;Week 3
+SIMON;MODEL 13;Nesting;;8;$0.00;$8.00;$2,100;$64;August;Week 3
+BENJAMIN;MODEL 2;Tenured;$99.49;4;$24.87;$50.00;$11,900;$200;August;Week 3
+BENJAMIN;MODEL 4;Tenured;$126.17;50;$2.52;$10.00;$2,450;$500;August;Week 3
+BENJAMIN;MODEL 13;Tenured;$7.99;20;$0.40;$9.00;$2,100;$180;August;Week 3
+RHAZEN;MODEL 13;Nesting;$33.60;48;$0.70;$8.00;$2,100;$384;August;Week 3
+ANGELICA;MODEL 1;Tenured;$2,006.70;30;$66.89;$66.00;$15,400;$1,980;August;Week 4
+ANGELICA;MODEL 11;Tenured;$3,889.92;16;$243.12;$106.00;$24,500;$1,696;August;Week 4
+ANGELICA;MODEL 12;Tenured;$5.30;;;$49.00;$11,900;;August;Week 4
+JOSHUA;MODEL 11;Tenured;$4,832.73;40;$120.82;$106.00;$24,500;$4,240;August;Week 4
+RAY;MODEL 11;Tenured;$4,733.24;40;$118.33;$106.00;$24,500;$4,240;August;Week 4
+IRISH;MODEL 7;Tenured;$312.00;3;$104.00;$34.00;;$102;August;Week 4
+IRISH;MODEL 12;Tenured;$3,972.90;45;$88.29;$49.00;$11,900;$2,205;August;Week 4
+JOSHUA C;MODEL 9;Tenured;$3,866.72;44;$87.88;$36.00;$8,400;$1,584;August;Week 4
+ANDREI;MODEL 6;Tenured;$32.80;;;$38.00;$9,100;;August;Week 4
+ANDREI;MODEL 11;Tenured;$3,167.97;48;$66.00;$106.00;$24,500;$5,088;August;Week 4
+CARL;MODEL 14;Tenured;$2,110.04;32;$65.94;$57.00;$13,300;$1,824;August;Week 4
+MARK;MODEL 1;Tenured;$634.69;8;$79.34;$66.00;$15,400;$528;August;Week 4
+MARK;MODEL 6;Tenured;$202.40;8;$25.30;$38.00;$9,100;$304;August;Week 4
+MARK;MODEL 10;Tenured;$100.80;8;$12.60;$46.00;$11,200;$368;August;Week 4
+MARK;MODEL 11;Tenured;$1,035.19;8;$129.40;$106.00;$24,500;$848;August;Week 4
+SERHII;MODEL 14;Tenured;$2,948.00;48;$61.42;$57.00;$13,300;$2,736;August;Week 4
+CAROL;MODEL 1;Tenured;$313.60;13;$24.12;$66.00;$15,400;$858;August;Week 4
+CAROL;MODEL 14;Tenured;$1,584.06;23;$68.87;$57.00;$13,300;$1,311;August;Week 4
+POPOV;MODEL 1;Tenured;$2,606.23;49;$53.19;$66.00;$15,400;$3,234;August;Week 4
+POPOV;MODEL 2;Tenured;$15.20;3;$5.07;$50.00;$11,900;$150;August;Week 4
+JESBONI;MODEL 1;Nesting;$23.20;3;$7.73;$59.00;$15,400;$177;August;Week 4
+JESBONI;MODEL 10;Nesting;$2,499.15;48;$52.07;$41.00;$11,200;$1,968;August;Week 4
+JESSA;MODEL 1;Tenured;$1,386.56;24;$57.77;$66.00;$15,400;$1,584;August;Week 4
+JESSA;MODEL 2;Tenured;$213.48;8;$26.69;$50.00;$11,900;$400;August;Week 4
+JESSA;MODEL 6;Tenured;$85.10;8;$10.64;$38.00;$9,100;$304;August;Week 4
+JESSA;MODEL 11;Tenured;$1,036.67;16;$64.79;$106.00;$24,500;$1,696;August;Week 4
+EMMANUEL;MODEL 2;Tenured;$1,790.35;32;$55.95;$50.00;$11,900;$1,600;August;Week 4
+EMMANUEL;MODEL 10;Tenured;$27.20;8;$3.40;$46.00;$11,200;$368;August;Week 4
+JB;MODEL 12;Nesting;$1,812.44;40;$45.31;$44.00;$11,900;$1,760;August;Week 4
+FRANZ;MODEL 9;Tenured;$1,734.28;40;$43.36;$36.00;$8,400;$1,440;August;Week 4
+MARK JOSEPH;MODEL 2;Tenured;$147.60;9;$16.40;$50.00;$11,900;$450;August;Week 4
+MARK JOSEPH;MODEL 4;Tenured;;1;$0.00;$10.00;$2,450;$10;August;Week 4
+MARK JOSEPH;MODEL 5;Tenured;$20.00;;;$35.00;$8,400;;August;Week 4
+MARK JOSEPH;MODEL 8;Tenured;$1,924.80;47;$40.95;$28.00;$6,650;$1,316;August;Week 4
+MARK JOSEPH;MODEL 12;Tenured;$660.80;8;$82.60;$49.00;$11,900;$392;August;Week 4
+JANDLE;MODEL 1;Tenured;$423.86;16;$26.49;$66.00;$15,400;$1,056;August;Week 4
+JANDLE;MODEL 2;Tenured;$298.69;8;$37.34;$50.00;$11,900;$400;August;Week 4
+JANDLE;MODEL 8;Tenured;$24.70;;;$28.00;$6,650;;August;Week 4
+JANDLE;MODEL 12;Tenured;$937.40;16;$58.59;$49.00;$11,900;$784;August;Week 4
+ELLA;MODEL 7;Tenured;$249.36;8;$31.17;$34.00;;$272;August;Week 4
+ELLA;MODEL 8;Tenured;$1,725.92;40;$43.15;$28.00;$6,650;$1,120;August;Week 4
+ELLA;MODEL 12;Tenured;$5.39;1;$5.39;$49.00;$11,900;$49;August;Week 4
+ROMAN;MODEL 6;Tenured;$1,769.95;48;$36.87;$38.00;$9,100;$1,824;August;Week 4
+LYSANDER;MODEL 2;Nesting;$1,945.03;48;$40.52;$45.00;$11,900;$2,160;August;Week 4
+LYSANDER;MODEL 5;Nesting;$70.40;4;$17.60;$32.00;$8,400;$128;August;Week 4
+LYSANDER;MODEL 10;Nesting;$82.28;6;$13.71;$41.00;$11,200;$246;August;Week 4
+KENNETH;MODEL 9;Nesting;$1,655.82;46;$36.00;$33.00;$8,400;$1,518;August;Week 4
+JOYCE;MODEL 9;Tenured;$266.40;4;$66.60;$36.00;$8,400;$144;August;Week 4
+JOYCE;MODEL 10;Tenured;$1,592.78;48;$33.18;$46.00;$11,200;$2,208;August;Week 4
+MARYJEAN;MODEL 8;Tenured;$17.42;1;$17.42;$28.00;$6,650;$28;August;Week 4
+MARYJEAN;MODEL 14;Tenured;$1,465.91;41;$35.75;$57.00;$13,300;$2,337;August;Week 4
+VADYM;MODEL 5;Nesting;$952.71;28;$34.03;$32.00;$8,400;$896;August;Week 4
+GENA;MODEL 1;Tenured;$534.29;16;$33.39;$66.00;$15,400;$1,056;August;Week 4
+GENA;MODEL 4;Tenured;$330.20;8;$41.28;$10.00;$2,450;$80;August;Week 4
+GENA;MODEL 7;Tenured;$401.56;12;$33.46;$34.00;;$408;August;Week 4
+GENA;MODEL 13;Tenured;;4;$0.00;$9.00;$2,100;$36;August;Week 4
+GENA;MODEL 14;Tenured;$325.48;8;$40.69;$57.00;$13,300;$456;August;Week 4
+JOHN ALBERT;MODEL 9;Tenured;$260.00;8;$32.50;$36.00;$8,400;$288;August;Week 4
+JOHN DAVID;MODEL 6;Nesting;$1,298.40;40;$32.46;$34.00;$9,100;$1,360;August;Week 4
+KATE;MODEL 2;Tenured;$1,623.18;39;$41.62;$50.00;$11,900;$1,950;August;Week 4
+KATE;MODEL 4;Tenured;;3;$0.00;$10.00;$2,450;$30;August;Week 4
+KATE;MODEL 7;Tenured;$84.40;8;$10.55;$34.00;;$272;August;Week 4
+KATE;MODEL 13;Tenured;;3;$0.00;$9.00;$2,100;$27;August;Week 4
+AIRAH;MODEL 2;Tenured;$178.93;5;$35.79;$50.00;$11,900;$250;August;Week 4
+AIRAH;MODEL 4;Tenured;$3.20;;;$10.00;$2,450;;August;Week 4
+AIRAH;MODEL 5;Tenured;$1,285.84;43;$29.90;$35.00;$8,400;$1,505;August;Week 4
+AIRAH;MODEL 7;Tenured;$292.31;11;$26.57;$34.00;;$374;August;Week 4
+MARGARITA;MODEL 10;Nesting;$1,213.57;42;$28.89;$41.00;$11,200;$1,722;August;Week 4
+MIKE;MODEL 1;Tenured;$311.20;8;$38.90;$66.00;$15,400;$528;August;Week 4
+MIKE;MODEL 2;Tenured;$498.40;8;$62.30;$50.00;$11,900;$400;August;Week 4
+MIKE;MODEL 6;Tenured;$206.40;16;$12.90;$38.00;$9,100;$608;August;Week 4
+MIKE;MODEL 8;Tenured;$44.00;8;$5.50;$28.00;$6,650;$224;August;Week 4
+MIKE;MODEL 9;Tenured;$290.40;7;$41.49;$36.00;$8,400;$252;August;Week 4
+MATTHEW;MODEL 12;Nesting;$1,327.20;47;$28.24;$44.00;$11,900;$2,068;August;Week 4
+GAI;MODEL 5;Tenured;$119.62;8;$14.95;$35.00;$8,400;$280;August;Week 4
+GAI;MODEL 8;Tenured;$198.18;8;$24.77;$28.00;$6,650;$224;August;Week 4
+GAI;MODEL 12;Tenured;$196.62;8;$24.58;$49.00;$11,900;$392;August;Week 4
+GAI;MODEL 14;Tenured;$330.06;8;$41.26;$57.00;$13,300;$456;August;Week 4
+LOURANE;MODEL 1;Tenured;$55.99;2;$28.00;$66.00;$15,400;$132;August;Week 4
+LOURANE;MODEL 4;Tenured;;2;$0.00;$10.00;$2,450;$20;August;Week 4
+LOURANE;MODEL 5;Tenured;$66.39;3;$22.13;$35.00;$8,400;$105;August;Week 4
+LOURANE;MODEL 6;Tenured;$60.80;2;$30.40;$38.00;$9,100;$76;August;Week 4
+LOURANE;MODEL 10;Tenured;$291.20;8;$36.40;$46.00;$11,200;$368;August;Week 4
+LOURANE;MODEL 11;Tenured;$802.30;32;$25.07;$106.00;$24,500;$3,392;August;Week 4
+LUCIANA;MODEL 6;Tenured;$828.36;37;$22.39;$38.00;$9,100;$1,406;August;Week 4
+LUCIANA;MODEL 12;Tenured;$13.91;;;$49.00;$11,900;;August;Week 4
+KALVIN;MODEL 5;Nesting;$739.12;40;$18.48;$32.00;$8,400;$1,280;August;Week 4
+KALVIN;MODEL 7;Nesting;$323.20;8;$40.40;$31.00;;$248;August;Week 4
+RICHARDS;MODEL 8;Nesting;$949.60;48;$19.78;$25.00;$6,650;$1,200;August;Week 4
+EDGAR;MODEL 4;Tenured;$7.94;32;$0.25;$10.00;$2,450;$320;August;Week 4
+EDGAR;MODEL 6;Tenured;$194.81;8;$24.35;$38.00;$9,100;$304;August;Week 4
+EDGAR;MODEL 8;Tenured;$314.45;8;$39.31;$28.00;$6,650;$224;August;Week 4
+EDGAR;MODEL 9;Tenured;$828.88;8;$103.61;$36.00;$8,400;$288;August;Week 4
+EDGAR;MODEL 13;Tenured;$3.97;16;$0.25;$9.00;$2,100;$144;August;Week 4
+BENJAMIN;MODEL 4;Tenured;$227.00;37;$6.14;$10.00;$2,450;$370;August;Week 4
+BENJAMIN;MODEL 5;Tenured;$658.69;9;$73.19;$35.00;$8,400;$315;August;Week 4
+BENJAMIN;MODEL 13;Tenured;$40.27;4;$10.07;$9.00;$2,100;$36;August;Week 4
+MERICK;MODEL 2;Training;$63.19;6;$10.53;$40.00;$11,900;$240;August;Week 4
+MERICK;MODEL 7;Training;$207.98;8;$26.00;$27.00;;$216;August;Week 4
+MERICK;MODEL 13;Training;;4;$0.00;$7.00;$2,100;$28;August;Week 4
+SIMON;MODEL 4;Nesting;$78.40;13;$6.03;$9.00;$2,450;$117;August;Week 4
+SIMON;MODEL 5;Nesting;$115.91;8;$14.49;$32.00;$8,400;$256;August;Week 4
+SIMON;MODEL 7;Nesting;$226.40;7;$32.34;$31.00;;$217;August;Week 4
+SIMON;MODEL 13;Nesting;$8.80;1;$8.80;$8.00;$2,100;$8;August;Week 4
+RHAZEN;MODEL 4;Nesting;$283.70;40;$7.09;$9.00;$2,450;$360;August;Week 4
+RHAZEN;MODEL 5;Nesting;$7.99;1;$7.99;$32.00;$8,400;$32;August;Week 4
+RHAZEN;MODEL 13;Nesting;$280.00;16;$17.50;$8.00;$2,100;$128;August;Week 4
+JEROME;MODEL 4;Nesting;$23.20;13;$1.78;$9.00;$2,450;$117;August;Week 4
+JEROME;MODEL 8;Nesting;$295.20;8;$36.90;$25.00;$6,650;$200;August;Week 4
+JEROME;MODEL 9;Nesting;$32.80;4;$8.20;$33.00;$8,400;$132;August;Week 4
+JEROME;MODEL 13;Nesting;$236.00;37;$6.38;$8.00;$2,100;$296;August;Week 4
+ERIC;MODEL 4;Tenured;$39.20;8;$4.90;$10.00;$2,450;$80;August;Week 4
+ERIC;MODEL 5;Tenured;$511.19;11;$46.47;$35.00;$8,400;$385;August;Week 4
+ERIC;MODEL 13;Tenured;$17.60;46;$0.38;$9.00;$2,100;$414;August;Week 4
+MOSES;MODEL 13;Training;$27.20;12;$2.27;$7.00;$2,100;$84;August;Week 4
+MERICK;MODEL 13;Training;$8.80;8;$1.10;$7.00;$2,100;$56;August;Week 4
+ROWEM;MODEL 13;Training;$4.80;12;$0.40;$7.00;$2,100;$84;August;Week 4
+RAY;MODEL 11;Tenured;$5,357.78;40;$133.94;$106.00;$24,500;$4,240;August;Week 5
+JOSHUA;MODEL 11;Tenured;$4,692.42;40;$117.31;$106.00;$24,500;$4,240;August;Week 5
+IRISH;MODEL 8;Tenured;$1,120.00;2;$560.00;$28.00;$6,650;$56;August;Week 5
+IRISH;MODEL 10;Tenured;$12.00;1;$12.00;$46.00;$11,200;$46;August;Week 5
+IRISH;MODEL 12;Tenured;$4,085.60;47;$86.93;$49.00;$11,900;$2,303;August;Week 5
+ANGELICA;MODEL 1;Tenured;$2,861.41;30;$95.38;$66.00;$15,400;$1,980;August;Week 5
+ANGELICA;MODEL 2;Tenured;$4.80;;;$50.00;$11,900;;August;Week 5
+ANGELICA;MODEL 5;Tenured;$91.60;4;$22.90;$35.00;$8,400;$140;August;Week 5
+ANGELICA;MODEL 8;Tenured;$6.40;1;$6.40;$28.00;$6,650;$28;August;Week 5
+ANGELICA;MODEL 11;Tenured;$1,671.21;16;$104.45;$106.00;$24,500;$1,696;August;Week 5
+ANGELICA;MODEL 12;Tenured;$10.10;1;$10.10;$49.00;$11,900;$49;August;Week 5
+GAI;MODEL 1;Tenured;$276.45;8;$34.56;$66.00;$15,400;$528;August;Week 5
+GAI;MODEL 5;Tenured;$10.39;;;$35.00;$8,400;;August;Week 5
+GAI;MODEL 7;Tenured;$232.92;8;$29.12;$34.00;;$272;August;Week 5
+GAI;MODEL 8;Tenured;$22.40;8;$2.80;$28.00;$6,650;$224;August;Week 5
+GAI;MODEL 10;Tenured;$441.60;8;$55.20;$46.00;$11,200;$368;August;Week 5
+GAI;MODEL 11;Tenured;$2,028.25;8;$253.53;$106.00;$24,500;$848;August;Week 5
+GAI;MODEL 12;Tenured;$1,044.80;8;$130.60;$49.00;$11,900;$392;August;Week 5
+GAI;MODEL 14;Tenured;$724.12;8;$90.52;$57.00;$13,300;$456;August;Week 5
+POPOV;MODEL 1;Tenured;$3,886.11;48;$80.96;$66.00;$15,400;$3,168;August;Week 5
+JESBONI;MODEL 10;Nesting;$3,234.40;48;$67.38;$41.00;$11,200;$1,968;August;Week 5
+ANDREI;MODEL 11;Tenured;$3,029.66;48;$63.12;$106.00;$24,500;$5,088;August;Week 5
+JESSA;MODEL 5;Tenured;$61.60;3;$20.53;$35.00;$8,400;$105;August;Week 5
+JESSA;MODEL 9;Tenured;$1,408.21;24;$58.68;$36.00;$8,400;$864;August;Week 5
+JESSA;MODEL 11;Tenured;$1,070.85;16;$66.93;$106.00;$24,500;$1,696;August;Week 5
+MARGARITA;MODEL 10;Nesting;$2,475.17;42;$58.93;$41.00;$11,200;$1,722;August;Week 5
+MARK JOSEPH;MODEL 6;Tenured;$1,285.19;16;$80.32;$38.00;$9,100;$608;August;Week 5
+MARK JOSEPH;MODEL 8;Tenured;$1,941.59;42;$46.23;$28.00;$6,650;$1,176;August;Week 5
+MARK JOSEPH;MODEL 9;Tenured;$207.20;3;$69.07;$36.00;$8,400;$108;August;Week 5
+MARK JOSEPH;MODEL 12;Tenured;$542.40;8;$67.80;$49.00;$11,900;$392;August;Week 5
+JOYCE;MODEL 5;Tenured;$265.60;4;$66.40;$35.00;$8,400;$140;August;Week 5
+JOYCE;MODEL 9;Tenured;$31.20;4;$7.80;$36.00;$8,400;$144;August;Week 5
+JOYCE;MODEL 10;Tenured;$2,424.79;40;$60.62;$46.00;$11,200;$1,840;August;Week 5
+KALVIN;MODEL 1;Nesting;$2,392.32;40;$59.81;$59.00;$15,400;$2,360;August;Week 5
+KALVIN;MODEL 10;Nesting;$280.76;8;$35.10;$41.00;$11,200;$328;August;Week 5
+JOSHUA C;MODEL 9;Tenured;$2,376.52;44;$54.01;$36.00;$8,400;$1,584;August;Week 5
+SERHII;MODEL 14;Tenured;$2,556.72;48;$53.27;$57.00;$13,300;$2,736;August;Week 5
+MATEUS;MODEL 8;Tenured;$84.20;3;$28.07;$28.00;$6,650;$84;August;Week 5
+MATEUS;MODEL 14;Tenured;$1,186.07;21;$56.48;$57.00;$13,300;$1,197;August;Week 5
+CAROL;MODEL 1;Tenured;$275.21;8;$34.40;$66.00;$15,400;$528;August;Week 5
+CAROL;MODEL 14;Tenured;$1,396.09;24;$58.17;$57.00;$13,300;$1,368;August;Week 5
+GENA;MODEL 1;Tenured;$156.78;8;$19.60;$66.00;$15,400;$528;August;Week 5
+GENA;MODEL 2;Tenured;$610.32;5;$122.06;$50.00;$11,900;$250;August;Week 5
+GENA;MODEL 6;Tenured;$68.75;7;$9.82;$38.00;$9,100;$266;August;Week 5
+GENA;MODEL 7;Tenured;$348.72;3;$116.24;$34.00;;$102;August;Week 5
+GENA;MODEL 8;Tenured;$23.20;7;$3.31;$28.00;$6,650;$196;August;Week 5
+GENA;MODEL 14;Tenured;$1,570.81;24;$65.45;$57.00;$13,300;$1,368;August;Week 5
+CARL;MODEL 14;Tenured;$1,621.65;32;$50.68;$57.00;$13,300;$1,824;August;Week 5
+FRANZ;MODEL 9;Tenured;$1,707.48;40;$42.69;$36.00;$8,400;$1,440;August;Week 5
+MARK;MODEL 6;Tenured;$16.00;2;$8.00;$38.00;$9,100;$76;August;Week 5
+MARK;MODEL 7;Tenured;$1,523.18;48;$31.73;$34.00;;$1,632;August;Week 5
+MARK;MODEL 10;Tenured;$583.20;6;$97.20;$46.00;$11,200;$276;August;Week 5
+MARK;MODEL 11;Tenured;$329.60;2;$164.80;$106.00;$24,500;$212;August;Week 5
+JANDLE;MODEL 1;Tenured;$282.37;8;$35.30;$66.00;$15,400;$528;August;Week 5
+JANDLE;MODEL 2;Tenured;$563.45;15;$37.56;$50.00;$11,900;$750;August;Week 5
+JANDLE;MODEL 9;Tenured;$258.30;8;$32.29;$36.00;$8,400;$288;August;Week 5
+JANDLE;MODEL 10;Tenured;$52.70;;;$46.00;$11,200;;August;Week 5
+JANDLE;MODEL 12;Tenured;$770.10;16;$48.13;$49.00;$11,900;$784;August;Week 5
+LYSANDER;MODEL 2;Nesting;$1,956.26;48;$40.76;$45.00;$11,900;$2,160;August;Week 5
+LYSANDER;MODEL 5;Nesting;$8.00;;;$32.00;$8,400;;August;Week 5
+VADYM;MODEL 5;Nesting;$1,145.71;30;$38.19;$32.00;$8,400;$960;August;Week 5
+JB;MODEL 12;Nesting;$1,227.20;40;$30.68;$44.00;$11,900;$1,760;August;Week 5
+KATE;MODEL 2;Tenured;$964.00;30;$32.13;$50.00;$11,900;$1,500;August;Week 5
+KATE;MODEL 7;Tenured;$50.80;5;$10.16;$34.00;;$170;August;Week 5
+JOHN DAVID;MODEL 6;Nesting;$1,133.16;40;$28.33;$34.00;$9,100;$1,360;August;Week 5
+ELLA;MODEL 8;Tenured;$1,191.08;48;$24.81;$28.00;$6,650;$1,344;August;Week 5
+ERIC;MODEL 5;Tenured;$398.39;16;$24.90;$35.00;$8,400;$560;August;Week 5
+ERIC;MODEL 6;Tenured;$320.00;8;$40.00;$38.00;$9,100;$304;August;Week 5
+ERIC;MODEL 7;Tenured;$310.40;8;$38.80;$34.00;;$272;August;Week 5
+ERIC;MODEL 10;Tenured;$371.20;8;$46.40;$46.00;$11,200;$368;August;Week 5
+ERIC;MODEL 13;Tenured;$16.00;24;$0.67;$9.00;$2,100;$216;August;Week 5
+ERIC;MODEL 14;Tenured;$365.57;8;$45.70;$57.00;$13,300;$456;August;Week 5
+MARYJEAN;MODEL 2;Tenured;$15.02;1;$15.02;$50.00;$11,900;$50;August;Week 5
+MARYJEAN;MODEL 6;Tenured;$80.26;9;$8.92;$38.00;$9,100;$342;August;Week 5
+MARYJEAN;MODEL 7;Tenured;$951.35;36;$26.43;$34.00;;$1,224;August;Week 5
+MARYJEAN;MODEL 14;Tenured;$8.31;;;$57.00;$13,300;;August;Week 5
+EDGAR;MODEL 5;Tenured;$221.71;8;$27.71;$35.00;$8,400;$280;August;Week 5
+EDGAR;MODEL 6;Tenured;$113.39;8;$14.17;$38.00;$9,100;$304;August;Week 5
+EDGAR;MODEL 7;Tenured;$398.51;16;$24.91;$34.00;;$544;August;Week 5
+EDGAR;MODEL 8;Tenured;$25.53;8;$3.19;$28.00;$6,650;$224;August;Week 5
+EDGAR;MODEL 9;Tenured;$201.23;4;$50.31;$36.00;$8,400;$144;August;Week 5
+LOURANE;MODEL 2;Tenured;$334.39;15;$22.29;$50.00;$11,900;$750;August;Week 5
+LOURANE;MODEL 4;Tenured;$103.20;8;$12.90;$10.00;$2,450;$80;August;Week 5
+LOURANE;MODEL 10;Tenured;$268.80;8;$33.60;$46.00;$11,200;$368;August;Week 5
+LOURANE;MODEL 11;Tenured;$364.79;12;$30.40;$106.00;$24,500;$1,272;August;Week 5
+LOURANE;MODEL 13;Tenured;$4.80;8;$0.60;$9.00;$2,100;$72;August;Week 5
+MIKE;MODEL 1;Tenured;$275.21;16;$17.20;$66.00;$15,400;$1,056;August;Week 5
+MIKE;MODEL 6;Tenured;$212.80;16;$13.30;$38.00;$9,100;$608;August;Week 5
+MIKE;MODEL 8;Tenured;;1;$0.00;$28.00;$6,650;$28;August;Week 5
+MIKE;MODEL 9;Tenured;$352.79;8;$44.10;$36.00;$8,400;$288;August;Week 5
+RICHARDS;MODEL 8;Nesting;$880.79;48;$18.35;$25.00;$6,650;$1,200;August;Week 5
+MATTHEW;MODEL 12;Nesting;$766.04;47;$16.30;$44.00;$11,900;$2,068;August;Week 5
+EMMANUEL;MODEL 2;Tenured;$583.16;36;$16.20;$50.00;$11,900;$1,800;August;Week 5
+AIRAH;MODEL 5;Tenured;$729.33;48;$15.19;$35.00;$8,400;$1,680;August;Week 5
+AIRAH;MODEL 9;Tenured;$164.24;8;$20.53;$36.00;$8,400;$288;August;Week 5
+KURT;MODEL 9;Nesting;$59.20;3;$19.73;$33.00;$8,400;$99;August;Week 5
+KURT;MODEL 13;Nesting;$51.16;4;$12.79;$8.00;$2,100;$32;August;Week 5
+MERICK;MODEL 7;Nesting;$419.98;32;$13.12;$31.00;;$992;August;Week 5
+KENNETH;MODEL 5;Nesting;$611.12;48;$12.73;$32.00;$8,400;$1,536;August;Week 5
+ROWEM;MODEL 4;Nesting;$9.60;8;$1.20;$9.00;$2,450;$72;August;Week 5
+ROWEM;MODEL 7;Nesting;$185.55;8;$23.19;$31.00;;$248;August;Week 5
+SIMON;MODEL 2;Nesting;$12.00;1;$12.00;$45.00;$11,900;$45;August;Week 5
+SIMON;MODEL 4;Nesting;$291.20;40;$7.28;$9.00;$2,450;$360;August;Week 5
+SIMON;MODEL 7;Nesting;$25.60;2;$12.80;$31.00;;$62;August;Week 5
+SIMON;MODEL 9;Nesting;$134.39;8;$16.80;$33.00;$8,400;$264;August;Week 5
+ROMAN;MODEL 6;Tenured;$411.99;46;$8.96;$38.00;$9,100;$1,748;August;Week 5
+JOHN ALBERT;MODEL 2;Tenured;$248.80;8;$31.10;$50.00;$11,900;$400;August;Week 5
+JOHN ALBERT;MODEL 4;Tenured;$52.00;39;$1.33;$10.00;$2,450;$390;August;Week 5
+JOHN ALBERT;MODEL 12;Tenured;$65.60;1;$65.60;$49.00;$11,900;$49;August;Week 5
+JOHN ALBERT;MODEL 13;Tenured;;12;$0.00;$9.00;$2,100;$108;August;Week 5
+KURT;MODEL 13;Training;$88.29;16;$5.52;$7.00;$2,100;$112;August;Week 5
+RHAZEN;MODEL 4;Nesting;$262.15;47;$5.58;$9.00;$2,450;$423;August;Week 5
+RHAZEN;MODEL 6;Nesting;$41.95;8;$5.24;$34.00;$9,100;$272;August;Week 5
+RHAZEN;MODEL 13;Nesting;$128.00;24;$5.33;$8.00;$2,100;$192;August;Week 5
+FRANCIS;MODEL 13;Training;$42.40;8;$5.30;$7.00;$2,100;$56;August;Week 5
+JEROME;MODEL 4;Nesting;$69.60;17;$4.09;$9.00;$2,450;$153;August;Week 5
+JEROME;MODEL 13;Nesting;$77.60;44;$1.76;$8.00;$2,100;$352;August;Week 5
+ROWEM;MODEL 13;Training;$4.80;8;$0.60;$7.00;$2,100;$56;August;Week 5
+HECTOR;MODEL 13;Training;$4.80;12;$0.40;$7.00;$2,100;$84;August;Week 5
+HECTOR;MODEL 13;Nesting;;8;$0.00;$8.00;$2,100;$64;August;Week 5
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
